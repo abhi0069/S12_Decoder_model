@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Specific Python Files
+Assignment_12(Colab_prototype).py
+Assignment_12_Colab(Final Model Backup).py
+Assignment_12(Local).py
+train_get2-9-speedup9(old).py
+# Add more specific files here as needed
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files
+Hugging Face/model_best.pt
+*.pt
+model_best.pt
+model_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Model checkpoints and data
+training_metrics.txt
+
+# OS
+.DS_Store
+Thumbs.db 
